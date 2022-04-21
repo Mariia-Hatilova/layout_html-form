@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,OACE,YACF,CAEA,QACE,aAAc,CAEd,yBAAkB,CAElB,mBACF","file":"style.345cc031.css","sourceRoot":"..\\src","sourcesContent":[".input {\n  margin: 5px 0;\n}\n\n.blocks {\n  margin: 20px 0;\n  border: solid rgb(107, 104, 104);\n  border-width: thin;\n  padding: 0 10px;\n  padding-bottom: 10px;\n}\n"]}
